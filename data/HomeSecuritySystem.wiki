@@ -1,0 +1,29 @@
+!!!Installation:
+Blue Light Security  Ph 0500 841 888
+
+!!!Zones
+||__::Zone::__|__::Type::__|__::Notes::__|P45E Area1|P46E Area2
+1|PIR|D/stairs Hall| |
+2|PIR|Office         | |
+3|PIR|Living         | |
+4|PIR|Landing      | |
+5|PIR|Lounge       | |
+...8|     |  |  |
+||
+
+!!!User Codes
+||__::UCode::__|__::Value::__|__::Notes::__
+P11E (Master)|1207|
+P12E| |
+P13E| |
+P14E| |
+...P25E| |
+||
+
+!!!Operation
+;__Arm Alarm__:''__arm__'' usercode ''__enter__''
+;__Disarm__:usercode ''__enter__''
+;__Monitor__:''__monitor__'' usercode ''__enter__''
+;__Exclude Zone__:''__exclude__'' usercode ''__enter__'' <br> zone no ''__enter__'' <br> zone no ''__enter__'' (optional) <br> ''__enter__'' to exit
+
+

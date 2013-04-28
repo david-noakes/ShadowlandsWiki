@@ -1,0 +1,26 @@
+[Main page|Main]\\
+[About]\\
+[News]\\
+[Recent Changes]\\
+
+[Background]\\
+[People]\\
+[Shadows]\\
+[Stories]\\
+
+
+[ApacheTomcat]\\
+[JSPWikiMain]\\
+[WikiEtiquette]\\
+[UserPreferences]
+
+[AccountInfo]\\
+[Birthdays]\\
+[FinanceInfo]\\
+[Itinarary]
+
+[Find pages|FindPage]\\
+[Unused pages|UnusedPages]\\
+[Undefined pages|UndefinedPages]\\
+[Page Index]
+

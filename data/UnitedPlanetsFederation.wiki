@@ -1,0 +1,39 @@
+++The United Planets Federation
+We first encountered this shadow in the story "Ghosts in the Machine" ([Erehwon 003] - Blue). We made friends with [Geeta], and have been back to visit a few times. She complains that her life hasn't been the same since she met us.
++++General
+About the year 2315, Interstellar travel is common. A typical starship can accelerate at about 100 gravities, which means it can make light speed in three and a bit days. A fraction below true light speed is tunnel effect speed, where the ship tunnels through the light barrier to the other side. This means nearby stars are available, but the range is limited by time.
+|Distance in LY |Days Travel |Weeks | Months| 
+|4.5 |140 |20| 4.5|
+|10 |210 |30| 7|
+|25 |330 |47| 11| 
+|40 |420 |60| 14| 
+|80 |627** |90| 21| 
+|100 |735** |105| 25| 
+|200 |1260** |180| 42| 
+|1000 |5440** |182| 16| 
+There are restrictions on just how fast the starship can travel and still navigate - about 70 times the speed of light. This represents an effective radius of 40 LY, after which the ship must coast for a time. Beyond this travel times increase into years so 80 light years is the practical limit, where the starships take nearly 2 years to cross the distance.
+There are a number of colonized planets, and a few with original inhabitants. Zeta Tucan 6 has a race of blue skinned people with feathered crests and 4 arms who are otherwise close to humans. (They can have sex, though they cannot breed)
+A second race resembles preying mantises about 4 meters long. They are probably around the 1700s with regard to technology.
+There are some 20 colonies spread throughout the region, some entirely human, some mixed humans and vendls.
++++Government
+Earth has one Government - United States of Earth. Each planet and separate base in the solar system is united in the Solar Federation. The discovered and colonized planets are members of the United Planets Federation.
++++Geeta
+[Geeta] is the captain of a salvage ship working out of Saturn Station. 
++++Saturn Station
+This is a mega size space station from which all the interstellar flights left and arrived. There is a fixed population of about half a million people, with a transient population of almost one million. The station orbits the planet Saturn. It is the main settlement for Saturn, and the seat of the Government of Saturn.
++++Earth
+Nations no longer exist. Instead the various nations are states of The United States of Earth. Earth is the dominant member of the Solar Federation.
++++Mars
+There are many cities under large domes, and a few built into cliffs or underground. Mars has a large population of around 50 million people.
++++Luna
+The oldest colony, it is still the port for interplanetary flights. Interstellar flights now all leave from Saturn Station. Luna is resentful of this.
++++Zeta Tucan 6
+Geeta's home world. Slightly heavier gravity than earth, but earth like. Pale green skies and red leafed vegetation. They have the similar technology to the Solar Federation, who borrowed some of it. They were building interplanetary ships when earth was colonizing Luna. They took it apart and improved it by the time the Solar Federation sent people. 
+Their planet is a moon that orbits the blue gas giant with rings like saturn
++++a
+Preying Mantis planet. Technology around the 1700s. The planet is quite warm and very damp. They are now trading with the Humans and Vendls and building their own technology to take them to the stars.
+There are two dominant races here, plus a hive intellect:
+-The first looks like praying mantises 4 meters long. They are carniverous, and consume live lobster like creatures (blue green shells the size of medium dogs). They would eat (3), but find their taste atrocious. 
+-The second looks like large earwigs about 2.5 meters tall. These are omniverous, and more friendly to humans. Then farm (3) for their honey. 
+Cross between bees and ants about the size of sparrows and they can fly. 
+-The third is more like primitive tribes, and are farmed by group (2). 
