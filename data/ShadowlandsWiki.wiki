@@ -1,5 +1,9 @@
 ﻿++ Shadowlands Wiki
 
 
+ * [Background]
+ * [People]
+ * [Shadows]
+ * [Stories]
 
-	* WikiSettings
+

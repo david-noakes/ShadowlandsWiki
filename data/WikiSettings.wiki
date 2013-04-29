@@ -6,5 +6,7 @@ These are your default global settings.
 [global.importance.high.bold: true]
 [global.contact.icon: contact]
 [global.wrap: 70]
+[global.camelCaseWordsEnabled: false]
+
 
 [icon: cog]
