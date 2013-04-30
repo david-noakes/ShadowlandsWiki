@@ -1,2 +1,2 @@
-+Table Of Contents
-[^%INDEX%]
+﻿+Table Of Contents
+[:toc:]
