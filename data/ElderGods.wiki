@@ -1,4 +1,4 @@
-++Elder Gods
+﻿++ Elder Gods
 These beings are archetypal gods and godesses, and cannot appear in shadow without destroying
 everything. They are classified by the guides as [[TheNon-BornBeings][The Non-Born Beings]]. They are also known as the Luminous Beings or Luminous Dragons from the region of the summer stars.
 They create artifacts that they drop in shadow, and skilled sorcerers can build them bodies to manifest in. These artifacts include hearts, hands, eyes and so on.
@@ -20,5 +20,5 @@ They create artifacts that they drop in shadow, and skilled sorcerers can build 
 +++The Band of Dreamers or The Lords of Light
 Collectively the same as the [[OldSorcerers][Old Sorcerers]]. These beings are on the side of humanity rather than either of the mainstream gods.
 -[RedRaven]
--[Lucifer]
+-[Lukeios]
 -[Morrigan] -- Mifunwi/BlackRaven

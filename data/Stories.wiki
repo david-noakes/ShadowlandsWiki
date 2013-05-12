@@ -24,12 +24,12 @@
  * 004 -- King Amrik -- Short Stories 
 
 +++ [GeorgeVampireDiaries] George the Vampire prior to Erehwon008
- * George alone
- * Melody alone
- * Fleur and Melody
- * Larissa the Ghost
- * Michael the warewolf
- * Susan (to become a warewolf)
+ * George alone  [Erehwon800]
+ * Melody alone  [Erehwon810]
+ * Fleur and Melody [Erehwon820]
+ * Larissa the Ghost [Erehwon830]
+ * Michael the warewolf [Erehwon840]
+ * Susan (to become a warewolf) [Erehwon841]
 
 +++ [DurathrorStories] Durathror's Stories
  * 001 -- 

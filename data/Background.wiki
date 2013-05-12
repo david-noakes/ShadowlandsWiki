@@ -1,6 +1,6 @@
-[Parallel Worlds]
-[The Mind Of God]
-[Archetypal Gods]
+﻿[ParallelWorlds]
+[TheMindOfGod]
+[ArchetypalGods]
 [Karma]
-[Order And Chaos]
+[OrderAndChaos]
 

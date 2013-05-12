@@ -1,7 +1,7 @@
 ﻿++Shadows
 -  [Aquilonia]
--  [[NaliniHomeShadow]//Nalini's Home Shadow//]
--  [[PrimalShadow][Primal Shadow]]
--  [[SaodatShadow][Saodat's Home Shadow]]
--  [[UnitedPlanetsFederation][United Planets Federation]]
--  [[ViharaniShadow][Viharani Home Shadow]]
+-  [NaliniHomeShadow]
+-  [PrimalShadow]
+-  [SaodatShadow]
+-  [UnitedPlanetsFederation]
+-  [ViharaniShadow]

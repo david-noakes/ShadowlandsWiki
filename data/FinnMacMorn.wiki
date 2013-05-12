@@ -1,12 +1,12 @@
-++Finn Mac Morn
+﻿++Finn Mac Morn
 A leprechaun like figure. About 4 feet tall, with a neat red beard, no moustache, dressed in green, with gold buckles on his shoes and hat. Claims to be one of the children of Vadagh. He recognizes [Danny] and [Nalini] as being children of Danu because they posess shadow shifting skills
 
 In [Erehwon001] he presents Danny with a dagger and Nalini with a ring, known as the [Eagles Gifts].
 
-In [Erehwon007] we discover he is the messenger of [The Eagle] and is an alter ego of Lucifer
+In [Erehwon007] we discover he is the messenger of [The Eagle] and is an alter ego of Lukeios
 
 ++Lukeios
 Greek or Egyptian looking, with dark hair tied in a pony tail, blond zigzag streaks through his hair. He was dressed in pale yellow slacks and a lilac shirt, and good walking shoes. Companion of [Elanor]
 
-++Lucifer
-He is the Light Bearer, the Herald of the Sun, Venus Lucifer. He is also Lord Nahbus, the herald of [[LordMithras][Lord Mithras]], and Apollo Leukeios (Apollo Light Bearer, Apollo Wolfsbane), [[HawkOfDawn][The Hawk that Soars in the Dawn]]
+++Lukeios
+He is the Light Bearer, the Herald of the Sun, Venus Lukeios. He is also Lord Nahbus, the herald of [[LordMithras][Lord Mithras]], and Apollo Leukeios (Apollo Light Bearer, Apollo Wolfsbane), [[HawkOfDawn][The Hawk that Soars in the Dawn]]
