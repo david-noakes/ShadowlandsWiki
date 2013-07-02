@@ -9,7 +9,7 @@
  * 005 -- [Erehwon005] The City In The Zigurat
  * 006 -- [Erehwon006] Short Stories
  * 007 -- [Erehwon007] The Angel of Pain
- * 008 -- [Erewhon008] George the Vampire 
+ * 008 -- [Erehwon008] George the Vampire 
  * 009  
  * 010  
 
