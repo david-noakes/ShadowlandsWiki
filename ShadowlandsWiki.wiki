@@ -4,7 +4,7 @@ data_dir = data
 [main]
 footnotes_as_wikiwords = False
 versioning_storagelocation = 0
-last_wiki_word = TimeLineGeorge
+last_wiki_word = Erehwon008
 hotkey_showhide_bywiki = 
 log_window_autoshow = Gray
 filestorage_identity_filenamemustmatch = False
@@ -23,7 +23,7 @@ indexsearch_enabled = False
 wiki_lasttabssubctrls = textedit
 template_pagenamesre = ^template/
 wikipagetitle_creationmode = 1
-tree_expandednodes_descriptorpathes_main = wikipage/ShadowlandsWiki,wikipage/People,wikipage/George;wikipage/ShadowlandsWiki;wikipage/ShadowlandsWiki,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/global,helpernode/propcategory/global.wrap,helpernode/propvalue/global.wrap/70;wikipage/ShadowlandsWiki,wikipage/Stories;wikipage/ShadowlandsWiki,wikipage/People,wikipage/Saodat,wikipage/Erehwon008;wikipage/ShadowlandsWiki,wikipage/People,wikipage/Saodat;wikipage/ShadowlandsWiki,helpernode/main/view;wikipage/ShadowlandsWiki,wikipage/People;wikipage/ShadowlandsWiki,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/global,helpernode/propcategory/global.wrap;wikipage/ShadowlandsWiki,wikipage/Stories,wikipage/TimeLineErehwon,wikipage/Erehwon008;wikipage/ShadowlandsWiki,wikipage/Stories,wikipage/TimeLineErehwon
+tree_expandednodes_descriptorpathes_main = wikipage/ShadowlandsWiki,wikipage/People,wikipage/George,wikipage/Erehwon008;wikipage/ShadowlandsWiki,wikipage/People,wikipage/George;wikipage/ShadowlandsWiki;wikipage/ShadowlandsWiki,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/global,helpernode/propcategory/global.wrap,helpernode/propvalue/global.wrap/70;wikipage/ShadowlandsWiki,wikipage/Stories;wikipage/ShadowlandsWiki,wikipage/People,wikipage/Saodat,wikipage/Erehwon008;wikipage/ShadowlandsWiki,wikipage/People,wikipage/Saodat;wikipage/ShadowlandsWiki,helpernode/main/view;wikipage/ShadowlandsWiki,wikipage/People;wikipage/ShadowlandsWiki,wikipage/Stories,wikipage/Erehwon008;wikipage/ShadowlandsWiki,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/global,helpernode/propcategory/global.wrap;wikipage/ShadowlandsWiki,wikipage/Stories,wikipage/TimeLineErehwon,wikipage/Erehwon008;wikipage/ShadowlandsWiki,wikipage/Stories,wikipage/TimeLineErehwon
 wiki_wikilanguage = wikidpad_default_2_0
 tree_force_scratchpad_visibility = True
 further_wiki_words = 
