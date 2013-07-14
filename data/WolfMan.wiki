@@ -1,5 +1,7 @@
-﻿++Wolf Man (Gray Wolf)
+﻿++Wolf Man (Grey Wolf)
+Name: Grey Wolf
 a tall, lean pale skinned man with dark hair, blue tattoos on his body, and pale gray eyes. He wore a tunic and kilt of leather, and a cloak made from the pelt of a gray wolf. Like the Red Raven, he wore a complicated device on his chest – a hope covered with netting, and bits of fur, black feathers and colored stones tied here and there. In his left hand he carried a bone flute.
+
 He can turn into a grey dire wolf the size of a horse.
 *Consort of* [[TigerWoman][Tiger Woman]]
 *Mentor of* [Prospero]
