@@ -16,6 +16,12 @@ Versions:
 
 Background: [Erehwon007Background]
 
+They use the pattern of the four winds to exscape from Ahriman.
+Danny is west, water
+Nalini is south, fire
+Saodat is north, earth
+Elanor is east, air
+
 !Synopsis:
 
 Part 1 - Angel of Fear, Angel of Hope
@@ -73,7 +79,7 @@ Part 6 - The Brotherhood of the Wolf
  - Chapter 4 - Take Out the Generals	
  - Chapter 5 - Capture the Ministers	
  - Chapter 6 - Cadellin Makes a Scene	
-Part 7 - Breakfast in the Ruins	
+Part 7 - The Heart of Darkness	
  - Chapter 1 - Assassins - Reprise	
  - Chapter 2 - The Government Falls	
  - Chapter 3 - New World Order	

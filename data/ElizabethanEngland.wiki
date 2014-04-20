@@ -1,2 +1,6 @@
-[AnAudienceWithQEI]
+﻿[AnAudienceWithQEI]
+[EdwardKelley]
+[JohnDee]
 [LordsChamberlain]
+[StarChamber]
+[TheAngelicConferencesOfDrJohnDeeAndSirEdwardKelley]
