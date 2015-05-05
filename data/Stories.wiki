@@ -4,15 +4,17 @@
  * 002 -- [Erehwon002] Serpent Shadow
  * 003 -- [Erehwon003] The Colors Of Shadow
  == In Progress 
- * 004 -- [Erehwon004] The Shadow Of The Tempest
+ * 004 -- [Erehwon004] The Shadow Of The Tempest??
  == First Draft 
  * 005 -- [Erehwon005] The City In The Zigurat
  * 006 -- [Erehwon006] Short Stories
  * 007 -- [Erehwon007] The Angel of Pain
  * 008 -- [Erehwon008] George the Vampire 
  * 009  
- * 010  
-
+ * 010 
+ * 301 -- [Erehwon301] Geeta's shadow (Tukani space stories)
+ * 401 -- assorted short stories (from 003)
+ 
  * 101 -- [Erehwon101] The Shadow Of The God Emperor 
  == First Draft
 
