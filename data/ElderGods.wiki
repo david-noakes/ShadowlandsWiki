@@ -18,6 +18,7 @@ They create artifacts that they drop in shadow, and skilled sorcerers can build 
 -[[BrassApe][Brass Ape]] --
 -[[IronSpider][Iron Spider]] -- 
 +++The Band of Dreamers or The Lords of Light
+Also known as the Elders of Earth
 Collectively the same as the [[OldSorcerers][Old Sorcerers]]. These beings are on the side of humanity rather than either of the mainstream gods.
 -[RedRaven]
 -[Lukeios]

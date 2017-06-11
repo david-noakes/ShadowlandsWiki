@@ -1,4 +1,4 @@
-Ley Lines == Song Lines == Dragon Lines and many more names.
+﻿Ley Lines == Song Lines == Dragon Lines and many more names.
 The Lines of the World, the grid of energy lines that run thoughout the world. There was a theory published by Alfred Watkins in 1925 in "The Old Straight Track" that ley lines were straight, connecting 5 or more archaic sites in a straight line. This is misleading for several reasons:
 1. Given only 50 points on a map, a 5 point line is statistically unlikely. However, giver 300 or more, even a 8 point line is possible.
 2. How wide is a line? Watkins postulated 4 to 6 ft, but many enthusiasts use much wider lines.
@@ -10,3 +10,5 @@ Curved leys have a wavelength of about 20ft and a cycle of about 2 minutes.
 Your aura connects to these and takes in energy to keep you alive. You can pull down more energy for magic should you require. Some of this energy is water energy, but most is earch energy.
 
 How do you harness more energy?
+
+[FiveTypesOfLeyLines]
