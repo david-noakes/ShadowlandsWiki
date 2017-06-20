@@ -7,11 +7,12 @@ George and Soula are summoned by Palomedes to treat the Governor of Athens' daug
 Cast:
 George, Soula
 Palomedes [MasterOfAthens]
+Argos the coach driver
 
 Bey Mustafa [Mustafa_ali_Bey] governor of Athens
 Mustafa's second wife
-Her Daughter, who was poisoned with belladonna and nearly died.
+Her Daughter [Yeshmin](Jasper), who was poisoned with belladonna and nearly died.
 
-Her servant [InsertName] who is 30 and speaks reasonable Turkish
+Her servant [Maria_LadysMaid] who is 30 and speaks reasonable Turkish
 Kitchenhand [Cassa_Kitchenhand] who squished the berries and also nearly died
 
