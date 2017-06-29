@@ -7,7 +7,10 @@ George and Soula are summoned by Palomedes to treat the Governor of Athens' daug
 Cast:
 George, Soula
 Palomedes [MasterOfAthens]
-Argos the coach driver
+Argos the coach driver  (human servant)
+Aleksander second in command (vampire)
+Dimitri(vampire)
+several unnamed human servants.
 
 Bey Mustafa [Mustafa_ali_Bey] governor of Athens
 Mustafa's second wife [Fatma]
